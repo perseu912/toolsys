@@ -1,0 +1,15 @@
+{
+  "name": "toolsys",
+  "version": "0.1.1",
+  "description": "tools for developers",
+  "main": "./lib/index.js",
+  "bin": {
+    "toolsys": "bin/toolsys.js"
+  },
+  "author": "reinan912",
+  "license": "ISC",
+  "dependencies": {
+    "math": "0.0.3",
+    "node-fetch": "^2.6.0"
+  }
+}
