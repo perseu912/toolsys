@@ -1,12 +1,17 @@
 {
   "name": "toolsys",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "description": "tools for developers",
+  "homepage": "https://github.com/perseu912/toolsys",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/perseu912/toolsys.git"
+  },
   "main": "./lib/index.js",
   "bin": {
     "toolsys": "bin/toolsys.js"
   },
-  "author": "reinan912",
+  "author": "perseu912",
   "license": "ISC",
   "dependencies": {
     "math": "0.0.3",
